@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 230" role="img" aria-label="JEM Catering Servizi Eventi">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#f8dc82"/><stop offset=".45" stop-color="#c9962e"/><stop offset=".72" stop-color="#ffe89b"/><stop offset="1" stop-color="#b77a17"/></linearGradient></defs>
+<g fill="none" stroke="url(#g)" stroke-width="22" stroke-linecap="square" stroke-linejoin="round">
+<path d="M95 35h78v105c0 45-22 65-58 65-31 0-52-17-52-47"/>
+<path d="M275 35c-59 0-91 36-91 85s32 85 91 85c30 0 52-10 70-29M194 120h103"/>
+<path d="M330 205V35l91 125 91-125v170"/>
+</g>
+<rect x="158" y="103" width="30" height="30" transform="rotate(45 173 118)" fill="#087957" stroke="#e3b54c" stroke-width="5"/>
+<text x="310" y="226" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="8" fill="#d6a846">CATERING - SERVIZI - EVENTI</text></svg>
