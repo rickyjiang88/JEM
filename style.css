@@ -10,3 +10,8 @@
  .service-list article{padding:12px 0}.contact form{width:100%}
 }
 @media(max-width:390px){.nav .small{display:none}.menu-toggle{margin-left:auto}h1{font-size:39px}}
+
+/* Approved transparent JEM logo */
+.brand{display:flex;align-items:center;overflow:visible}.brand img{display:block;object-fit:contain;background:transparent}
+footer img{display:block;background:transparent}
+@media(max-width:800px){.brand{flex:0 0 auto}.brand::before,.brand::after{content:none!important}.brand img{border:0!important;box-shadow:none!important;border-radius:0!important}.menu-toggle{border-radius:0!important}}
