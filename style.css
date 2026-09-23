@@ -66,3 +66,7 @@ footer img{display:block;background:transparent}
  .event-photo img,.visual-big img,.visual-small img{display:block!important;width:100%!important;max-width:none!important;height:100%!important;object-fit:cover!important}
  .section-title h2,.wide h2,.contact h2,.visual-copy h2{overflow-wrap:break-word}
 }
+
+/* JEM service line icons */
+.svc-icon{width:34px;height:34px;flex:0 0 34px;display:flex;align-items:center;justify-content:center;color:var(--emerald)}
+.svc-icon svg{width:28px;height:28px;fill:none;stroke:currentColor;stroke-width:1.45;stroke-linecap:round;stroke-linejoin:round}
